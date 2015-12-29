@@ -23,7 +23,7 @@ Struts filter in web.xml
 		<url-pattern>/*</url-pattern>
 	</filter-mapping>
 ```	
-	
+Write all your action classes in **actions** package e.g. **com.example.actions**
 ### For "/" root path create Index.java class and  index.jsp view file
 ### For ```<anyname>``` use ```<Anyname>```.java class and ```<anyname>```.jsp view file
 ##### e.g. http://localhost:8080/webappName/main 
